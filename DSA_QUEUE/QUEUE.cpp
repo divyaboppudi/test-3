@@ -9,6 +9,7 @@ using namespace std;
 
 
 // Print the queue
+//checking
 
 void showq(queue<int> gq)
 
